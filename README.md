@@ -32,3 +32,7 @@
     - `gyro_y`와 `gyro_z`: 상관 계수 = **0.29**→ 약한 양의 상관 관계.
  
 # 시각화
+![x와 z간의 산점도](https://github.com/yyyewon/yyyewon-pytorch-MTS/blob/main/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202024-11-29%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2011.07.15.png)
+
+- `acceleration_x` (x축)와 **`acceleration_z` (y축)** 간의 산점도
+- 점들이 아래로 기울어진 대각선 형태 = 음의 상관관계
